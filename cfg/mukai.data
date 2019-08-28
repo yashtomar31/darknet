@@ -1,5 +1,5 @@
 classes= 1
-train  = mukai-train.txt
-valid  = mukai-test.txt
+train  = cfg/mukai-train.txt
+valid  = cfg/mukai-test.txt
 names = data/mukai.names
 backup = /backup
