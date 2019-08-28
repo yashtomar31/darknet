@@ -2,4 +2,4 @@ classes= 1
 train  = cfg/mukai-train.txt
 valid  = cfg/mukai-test.txt
 names = data/mukai.names
-backup = backup/
+backup = /content/gdrive/'My Drive'
